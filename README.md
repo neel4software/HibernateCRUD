@@ -1,1 +1,1 @@
-# HibernateCRUD
+# HibernateJPA
